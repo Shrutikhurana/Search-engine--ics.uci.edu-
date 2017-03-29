@@ -1,0 +1,7 @@
+fano.ics.uci.edu,2
+calendar.ics.uci.edu,1
+esl.ics.uci.edu,1
+intranet.ics.uci.edu,1
+seraja.ics.uci.edu,1
+tippersweb.ics.uci.edu,1
+www.ics.uci.edu,3095
