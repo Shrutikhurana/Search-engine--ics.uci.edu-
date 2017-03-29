@@ -19,5 +19,6 @@ The results are optimized to a large extent and compared with the Google oracle 
 
 **Authors**
 
-Shruti Khurana
+Shruti Khurana <skhuran1@uci.edu>
+
 Reeta Singh
