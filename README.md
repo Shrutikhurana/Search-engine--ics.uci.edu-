@@ -1,7 +1,8 @@
-Search engine for “ics.uci.edu” in python
-
+**Search engine for “ics.uci.edu” in python**
 
 Developed a complete search engine for “ics.uci.edu” domain which takes in the user query and returns the top-hits based on the ranking algorithm. The results are evaluated using NDCG@5 taking google as the oracle (ground truth). 
+
+**Description**
 
 Crawled the “ics.uci.edu” domain and stored the web page. The web pages were crawled based on their URLs. If a URL was not valid, it was filtered out. 
 
@@ -15,3 +16,7 @@ The clickable URLs of the top hits are presented along with text snippets.
 
 The results are optimized to a large extent and compared with the Google oracle using NDCG@5 evaluation metric. The results of the search engine were good enough to ease search for the users.
 
+
+**Authors**
+Shruti Khurana
+Reeta Singh
